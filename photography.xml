@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<photos>
+	<image photo="Burro">
+		<caption>A burro I passed while taking a strole on the Isla de Sol.</caption> 
+	</image>
+	<image photo="Incan Valley">
+		<caption>View from hilltop of the Sacred Valley of the Incas.</caption> 
+	</image>
+	<image photo="Machu Picchu">
+		<caption>Famous lost city of the Incas in Peru.</caption> 
+	</image>
+	<image photo="Copacabana">
+		<caption>View of Copacabana and Lake Titicaca shoreline, taken from Our Lady of Copacabana hilltop.</caption> 
+	</image>
+	<image photo="Bug">
+		<caption>Pushing my camera's macro-setting to the limits with a butterfly I found in the rainforest of Iguazu. </caption> 
+	</image>
+	<image photo="Iguazu">
+		<caption>Waterfall and river that divides Paraguay, Brazil and Argentina.</caption> 
+	</image>
+	<image photo="Rockwall">
+		<caption>Rockwall seperating sheep herds on Inis Oirr, the smallest of the three Aran Islands off the west coast of Ireland.</caption> 
+	</image>
+	<image photo="Shipwreck">
+		<caption>A rusting shipwreck I stumbled across on Inis Oirr.</caption> 
+	</image>
+	<image photo="Colosseum">
+		<caption>Famous Colosseum in Rome, Italy.</caption> 
+	</image>
+	<image photo="Plaza de Mayo">
+		<caption>Historic plaza in Buenos Aires, Argentia, La Playa de Mayo.</caption> 
+	</image>
+	<image photo="Big Ben">
+		<caption>Just in time to see Big Ben, London, England.</caption> 
+	</image>
+		<image photo="Beware of Gravity">
+		<caption>No precautions are taken lightly at docks in Ireland.</caption> 
+	</image>
+	<image photo="unlabeled">
+		<caption>unlabeled</caption> 
+	</image>
+	<image photo="Vatican">
+		<caption>Postcard perfect photograph of the Vatican.</caption> 
+	</image>
+	<image photo="Worn Metal">
+		<caption>Years of touch has softened the iron of St. Peter's statue in St. Pete's Basilica..</caption> 
+	</image>
+	<image photo="Ascent">
+		<caption>Vigorious climb to the crest of this mountain to photograph El Calafate and the Andes in the horizon.</caption> 
+	</image>
+	<image photo="Son Rise">
+		<caption>Mass celebrated at sunrise on the top of Skinner's Butte in Eugene, OR.</caption> 
+	</image>
+	<image photo="St. Peters Square">
+		<caption>St. Peter's Square and fountain illuminated.</caption> 
+	</image>
+	<image photo="Reflection">
+		<caption>Fellow traveler enjoying the sights and weather in London.</caption> 
+	</image>
+</photos>

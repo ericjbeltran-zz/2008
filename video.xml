@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<videos>
+  <video name="Distracted Mind">
+  	<caption>(9:32)
+Final Cut Pro	 
+Soundtrack Pro
+
+Story revolves around friend who suffers from ADD but whose life is transformed once he 'over-doses' on his medication. Written, directed, shot, and edited by me and small crew of students. 
+
+Parody of 'Requiem for a Dream' (2000), however, instead of narcotics destroying lives, here we have prescribed medications improving them.</caption>
+ 	 <path>images/video/add.flv</path>
+  </video>
+   <video name="Stop Motion Animation">
+	<caption>[2:33]/Final Cut Pro/Stop Motion Editor
+
+Silent stop motion short video I made exlporing stop motion technologies and programs.
+
+The symbolism here regards boxes and containers and how we tend to catogorize and place others in our own predisposed conventions of how they should act and present themselves.</caption>
+ 	 <path>images/video/animation.flv</path>
+  </video>
+  <video name="Beltran Credits">
+    <caption>(33;19)
+AutoDesk Combustion 4
+Adobe After Effects
+Final Cut Pro
+Soundtrack Pro
+
+Final project for typography class, 'Type in Motion'.
+
+Here I really payed attention and meticulously tweaked the movement of the type, which resulted in a smooth, easy-on-the eye, and modern motion. I also mixed the audio specifically for this piece and was asked permission from numerous student for use of it in other projects.</caption>
+ 	 <path>images/video/credits.flv</path>
+  </video>
+  <video name="Gamed">
+	 <caption>(4:01)
+Final Cut Pro
+Autodesk Combustion 4
+Adobe After Effects
+Soundtrack Pro
+
+Student film for special effects class. Displays use of multiple layered masks and light particle manipulation. Some light rotoscoping was also involved.
+
+Mixed audio specifically for this project with Soundtrack Pro.
+
+</caption>
+	  <path>images/video/gamed.flv</path>
+  </video>
+  <video name="Visual Music">
+	 <caption>(2:03)
+Final Cut Pro
+Adobe After Effects
+Soundtrack Pro
+
+Visual Music Text.
+</caption>
+	  <path>images/video/visualmusic.flv</path>
+  </video>
+  <video name="Man With a Digital Camera">
+    <caption>(6:10)
+Final Cut Pro
+
+Final project for 'micro-cinema' project. Video was made to be viewed on hand held digital video device. 
+
+Piece was inspired by Dziga Vertov's "Man with a Movie Camera" (1929), but instead of a day in Moscow portrayed on film, we expereience a day at the University of Oregon portrayed with digital video.
+
+Piece was selected for viewing at the LaVerne Crosse gallery on campus after it was selected for the University's competitive summer film festival for creativity.</caption>
+	  <path>images/video/micro.flv</path>
+  </video>
+  <video name="Technical Difficulties">
+    <caption>(8;58)
+Final Cut Pro
+Compressor
+
+Final project for digital video class. Focus was on use of cinemetography as medium of telling story and use of color to portray mood. 
+
+Narrative follows Eric on how a day of technical difficulties leads to him losing his job. Critique on technology and how we depend on it too much at times.</caption>
+ 	 <path>images/video/techdif.flv</path>
+  </video>
+   <video name="Elders Interviews">
+    <caption>[6;56]Final Cut Pro
+	Elder Interview text goes here.</caption>
+ 	 <path>images/video/elders_presentation.flv</path>
+  </video>
+</videos>

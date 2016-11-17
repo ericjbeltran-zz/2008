@@ -1,0 +1,6 @@
+&numSongs=5&
+&song1=music/wave/running cold&
+&song2=music/wave/old time music&
+&song3=music/wave/snow ridge&
+&song4=music/wave/polar ice&
+&song5=music/wave/ice cap&
